@@ -1,0 +1,2 @@
+# Coal-Production-Analysis
+In this project I have tried various machine learning models for coal prediction estimation .I have used simple multiple linear regression, ridge regression, lasso regression, decision tree regressor, random forest, XG boost and compared them on the basis of r2 score.I have used the dataset which is freely available to download by the U.S. energy information administration and U.S. mine safety and health administration of year 2020.
